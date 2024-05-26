@@ -1,1 +1,6 @@
-print("this is a python file from another branch")
+
+
+x = 3
+y = 5
+
+print(x*y)
